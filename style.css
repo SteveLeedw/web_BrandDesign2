@@ -9,7 +9,7 @@
 }
 
 .nav-item a{
-color: black;
+color: rgb(91, 129, 185);
 font-family: serif;
 
 }
@@ -18,15 +18,16 @@ font-family: serif;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+    color: rgb(91, 129, 185);
 }
 
 .carousel-caption h4 {
-text-shadow: 1px 1px 3px black;
+text-shadow: 1px 1px 3px rgb(91, 129, 185);
 
 }
 
 .carousel-caption p {
-    text-shadow: 1px 1px 3px black;    
+    text-shadow: 1px 1px 3px rgb(91, 129, 185)ack;    
     }
 
 .container-fluid {
@@ -77,7 +78,7 @@ text-shadow: 1px 1px 3px black;
 
 .hi {
     padding-top: 5%;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .table {
